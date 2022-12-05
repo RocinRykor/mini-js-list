@@ -1,5 +1,5 @@
 # mini-js-list
-Mini Portfolio Project 
+Mini Portfolio Project: jQuery To-Do List
 
 ## Exploring jQuery
 
